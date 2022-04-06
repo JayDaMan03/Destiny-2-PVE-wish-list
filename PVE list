@@ -71,8 +71,21 @@ dimwishlist:item=1019000888&perks=1019291327,839105230,1087426260,3700496672,303
 dimwishlist:item=1526296434&perks=1636108362,1840239774,1561002382,2039302152,124408337,4248210736,2323986101,518224747,3717985200,2302094943,0,2909846572,2400712188
 
 //PIECE OF MIND
-//Note: 
-//Perk Choice: Corkscrew Rifling; Appended Mag; Over Flow; Focused Fury
+//Note: Corkscrew Rifling; Appended Mag; Over Flow; Focused Fury
 dimwishlist:item=2097055732&perks=4090651448,1087426260,3643424744,2896038713
 
-//
+//SERVANT LEADER
+//Note:Arrow Head Brake:Tactical Mag:Fourth times a Charm:Wellspring
+dimwishlist:item=1107446438&perks=839105230,106909392,1354429876,3592538738
+
+//FORTISSIMO-11
+//Note:Corkscrew Rifling: Tactical Mag: Fourth Time's the Charm: Vorpal
+dimwishlist:item=2821430069&perks=4090651448,106909392,1354429876,1546637391
+
+//RAGNHILD-D
+//Note: Rifled Barrel: Tactical Mag: Dual Loader: One-Two Punch
+dimwishlist:item=4225322581&perks=1332244541,106909392,25606670,2679249093
+
+//WASTELANDER M5
+//Note:Smallbore: Assault Mag; Subsistence; Killing Wind
+dimwishlist:item=1679868061&perks=1482024992,791862061,1820235745,2450788523
